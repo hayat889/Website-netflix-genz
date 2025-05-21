@@ -1,2 +1,1 @@
-# Website-netflix-genz
-Selamat Datang di Website Netflix.GenZ
+Website-netflix-genz
